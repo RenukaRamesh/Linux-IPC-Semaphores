@@ -108,12 +108,12 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![alt text](<os 1.png>)
 
 $ ipcs
+
 ![alt text](<os 2.png>)
-
-
 
 
 # RESULT:
